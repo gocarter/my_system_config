@@ -1,0 +1,28 @@
+# Load OhMyZsh library
+antigen use oh-my-zsh
+
+# Load bundles from the default repo (oh-my-zsh)
+antigen bundle git
+antigen bundle command-not-found
+antigen bundle colored-man-pages
+antigen bundle python
+antigen bundle ubuntu
+antigen bundle colorize
+antigen bundle docker
+antigen bundle gitfast
+antigen bundle gitignore
+antigen bundle tmux
+antigen bundle virtualenv
+
+
+# Load bundles from exernal repos.
+antigen bundle zsh-users/zsh-completions
+antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle zsh-users/zsh-syntax-hihglighting
+antigen bundle soimort/translate-shell
+
+# Select theme
+# antigen theme
+
+#Tell Antigen that you're done
+antigen apply

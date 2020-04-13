@@ -1,0 +1,7 @@
+[user]
+	name = Mateusz Ciołkosz
+	email = matciolkosz@gmail.com
+[color]
+	ui = true
+[core]
+	sshCommand = ssh -i ~/.ssh/id_rsa -F /dev/null

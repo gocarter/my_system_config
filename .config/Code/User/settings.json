@@ -1,0 +1,67 @@
+{
+    "git.autofetch": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "sync.quietSync": true,
+    "sync.autoUpload": false,
+    "workbench.iconTheme": "vscode-icons",
+    "sync.gist": "6b9a403e8479db794c4c90a38a46d1fe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "editor.fontSize": 11.2,
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.commandsToSkipShell": [
+        "workbench.action.toggleSidebarVisibility"
+    ],
+    "files.autoGuessEncoding": true,
+    "files.trimFinalNewlines": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "markdown.preview.fontSize": 12,
+    "[markdown]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "prettier.bracketSpacing": true,
+    "editor.formatOnSave": true,
+    "git.confirmSync": false,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "workbench.editor.showTabs": true,
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "[ini]": {},
+    "window.zoomLevel": -1,
+    "ltex.en-US.dictionary": [
+        "Ciołkosz",
+        "gocarte",
+        "Mateusz",
+        "OBDAnalyzer"
+    ],
+    "todo-tree.highlights.enabled": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "terminal.external.linuxExec": "tilix",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.scrollback": 10000,
+    "files.autoSave": "off",
+    "debug.console.fontSize": 10.8,
+    "markdown.preview.lineHeight": 1.4,
+    "editor.fontWeight": "600",
+    "editor.suggestFontSize": 10,
+    "terminal.integrated.fontWeight": "400",
+    "terminal.integrated.fontWeightBold": "800",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.experimentalUseTitleEvent": true,
+    "terminal.integrated.minimumContrastRatio": 7,
+    "terminal.integrated.rendererType": "canvas",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.intelliSenseCacheSize": 20120,
+    "workbench.colorTheme": "Kimbie Dark"
+}
